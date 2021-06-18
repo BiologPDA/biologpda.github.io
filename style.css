@@ -193,8 +193,14 @@ li {
 }
 
 .schedule__item{
+    margin-right: 20px;
     width: 20%;
 }
+
+.schedule__item:last-child {
+    marrgin-right: 0;
+}
+
 
 .schedule__inner {
     display: flex;
