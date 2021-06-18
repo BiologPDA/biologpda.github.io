@@ -72,7 +72,7 @@ body {
 
 
 .description__item__1 {
-    background-image: url(main-building.png);
+    background-image: url(main-building.png)
     height: 639px;
     width: 1355px;
     margin: 0 auto;
