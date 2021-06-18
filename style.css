@@ -192,11 +192,15 @@ li {
     padding-bottom: 55px;
 }
 
+.schedule__item{
+    width: 20%;
+}
+
 .schedule__inner {
     display: flex;
     text-align: center;
     justify-content: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: space-between;
 }
 
