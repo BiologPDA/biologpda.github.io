@@ -72,6 +72,9 @@ body {
 
 
 .description__item__1 {
+    overflow: hidden;
+    top: -100px;
+    left: -300px;
     background-image: url(main-building.png);
     height: 100%;
     width: 100%;
