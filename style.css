@@ -73,8 +73,10 @@ body {
 
 .description__item__1 {
     background-image: url(main-building.png);
-    height: 639px;
-    width: 1355px;
+    height: 100%;
+    width: 100%;
+    max-height: 639px;
+    max-width: 1355px;
     margin: 0 auto;
 }
 
