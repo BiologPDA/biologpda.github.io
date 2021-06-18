@@ -74,7 +74,7 @@ body {
 .description__item__1 {
     background-image: url(main-building.png);
         background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     background-position: center;
     height: 100%;
     width: 100%;
